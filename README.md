@@ -1,5 +1,5 @@
 # Targeted Transferable Attack against Deep Hashing Retrieval
-This is the code for "[Targeted Transferable Attack against Deep Hashing Retrieval]". 
+This is the code for "Targeted Transferable Attack against Deep Hashing Retrieval". 
 
 
 ## Requirements
